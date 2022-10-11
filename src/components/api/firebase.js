@@ -4,7 +4,7 @@ import 'firebase/compat/auth';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAzQuOPh-dO_DgV1Bwy54N97hQ2DTyXsNM",
+  apiKey: "",
   authDomain: "netflix-lone-99e81.firebaseapp.com",
   projectId: "netflix-lone-99e81",
   storageBucket: "netflix-lone-99e81.appspot.com",
